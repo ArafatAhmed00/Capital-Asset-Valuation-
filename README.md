@@ -1,7 +1,7 @@
 PCS License Bid: Value-Based Management for Dreamland’s Wireless Market
 Overview
 
-This project focuses on developing a value-based business plan for a Personal Communication Services (PCS) license bid in the Republic of Dreamland. The project was done as a part of the course curriculum for Capital Investment and Decision Making. The Ministry of Telecommunications plans to introduce a third wireless operator in the 1800 MHz spectrum to enhance competition, reduce costs, and improve service quality. This project aims to determine the optimal bid for the PCS license using financial and operational data while applying value-based management principles.
+This project focuses on developing a value-based business plan for a Personal Communication Services (PCS) license bid in the Republic of Dreamland. The project was done as a part of the course curriculum for Capital Investment and Decision Making (FIN 643) of OUR MBA program. The Ministry of Telecommunications plans to introduce a third wireless operator in the 1800 MHz spectrum to enhance competition, reduce costs, and improve service quality. This project aims to determine the optimal bid for the PCS license using financial and operational data while applying value-based management principles.
 Objectives
 
     Develop a Business Plan:
